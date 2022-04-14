@@ -1,2 +1,4 @@
 name = input('Say my name:')
-print('Im', name)
+
+if name == 'HEISENBERG':
+	print("You're goddaMn right, now say my name")
